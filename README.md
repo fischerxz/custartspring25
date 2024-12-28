@@ -17,7 +17,11 @@ The last four weeks will be dedicated to your final project, which is ideating a
 
 ## Communication
 
-All students should join the class' Ed Discussion: [edstem.org/us/join/QBybhC](https://edstem.org/us/join/QBybhC). Major announcements will be made on there. We encourage you to make your posts asking for help public as other students may have similar questions. If you need to contact us about a private matter, please make a private Ed post.
+All students should join the class' Ed Discussion: [edstem.org/us/join/QBybhC](https://edstem.org/us/join/QBybhC). We encourage you to make your posts public as other students may have similar questions. If you need to contact us about a private matter, please make a private Ed post.
+
+## Submissions
+
+Students should make a PR to this repository every week with the project they made that week. There'll be a corresponding folder, eg. `week1`. Final projects should be submitted as a GitHub repository.
 
 ## Requirements
 
