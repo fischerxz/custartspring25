@@ -11,15 +11,13 @@ Cubstart is a Decal offered by Hackathons @ Berkeley (the team behind Cal Hacks)
 
 ## Structure
 
-This class will meet once a week every Thursday. Each session will have a different theme (see below for the calendar). After a brief introduction lecture, each student will work on a project of their own. For example, for our first session, every student will make their own personal website. At the end of each session, students will share what they've made with their peers and course staff.
+This class will meet once a week every Thursday. Each session will have a different theme (see below for the calendar). After a brief mini-lecture, each student will work on a project of their own. For example, for our first session, every student will make their own personal website. At the end of each session, students will share what they've made with their peers and course staff.
 
 The last four weeks will be dedicated to your final project, which is ideating and building a viable product/application. You’ll work with a team or alone; we will be offering office hours support along the way. Besides the final project, there'll be no homework for this semester.
 
 ## Requirements
 
-We do not enforce prerequisites, but prior coding experience of any kind is recommended (high school course, CS10, CS61A, etc).
-
-Students should come to the first session of class w/ an IDE (we recommend VSCode), Node.js, and GitHub Desktop installed.
+We do not enforce prerequisites, but prior coding experience of any kind is recommended (high school course, CS10, CS61A, etc). Students should come to the first session of class w/ an IDE (we recommend VSCode), Node.js, and GitHub Desktop installed.
 
 Above all, bring positivity and curiosity to class! The more you give to the class, the more you'll get out of it.
 
@@ -71,3 +69,9 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 To pass the class, you will need to earn a grade of 70% or more. This course is fast-paced and highly cumulative. Your success will depend on your active and consistent participation. However, we understand that emergencies and personal matters do come up.
 
 If you have an extenuating circumstances and have used up your drops, please reach out to team@cubstart.com.
+
+## Closing message
+
+We look forward to having you in this class! And we can't wait to see what you make.
+
+Reach out if at any time you need help, we're always here for you.
