@@ -1,4 +1,4 @@
-# 🐻 Cubstart Web: Spring 2025
+# 🐻 Cubstart Web (CS 198-750): Spring 2025
 
 _Every Thursday from 7pm to 9pm in [Soda 306](https://coeesg.wpengine.com/av-facilities-and-services-by-room/soda306/)._
 
@@ -25,7 +25,31 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 
 ## Calendar
 
-TBC
+**Week 1 (6th February):** building a personal website with HTML.
+
+**Week 2 (13th February):** styling our personal websites using CSS.
+
+**Week 3 (20th February):** making our personal websites move with JavaScript. 
+
+**Week 4 (27th February):** making API calls from our personal website.
+
+**Week 5 (6th March):** building a chat app with Socket.io.
+
+**Week 6 (13th March):** customizing our chat apps, with CSS & JavaScript (Part 1).
+
+**Week 7 (20th March):** customizing our chat apps, with CSS & JavaScript (Part 2).
+
+**Week 8 (27th March):** saving our messages in a database.
+
+**Week 9 (3rd April):** building a cookie clicker game with React.js
+
+**Week 10 (10th April):** improving our cookie clicker games.
+
+**Week 11 (17th April):** final project team formation and ideation. 
+
+**Week 12 (24th April):** final project worksession.
+
+**Week 13 (1st May):** final project worksession.
 
 ## Policies
 
