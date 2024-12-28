@@ -15,6 +15,10 @@ This class will meet once a week every Thursday. Each session will have a differ
 
 The last four weeks will be dedicated to your final project, which is ideating and building a viable product/application. You’ll work with a team or alone; we will be offering office hours support along the way. Besides the final project, there'll be no homework for this semester.
 
+## Communication
+
+All students should join the class' Ed Discussion: [edstem.org/us/join/QBybhC](https://edstem.org/us/join/QBybhC). Major announcements will be made on there. We encourage you to make your posts asking for help public as other students may have similar questions. If you need to contact us about a private matter, please make a private Ed post.
+
 ## Requirements
 
 We do not enforce prerequisites, but prior coding experience of any kind is recommended (high school course, CS10, CS61A, etc). Students should come to the first session of class w/ an IDE (we recommend VSCode), Node.js, and GitHub Desktop installed.
@@ -57,7 +61,7 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
   * Students may only work in groups for the final project.
   * If a student plagarises or uses generative AI, they will recieve no credit for assignment and recieve an immediate NP at the instructor's discretion.
 * Late work will not be accepted, however, we're flexible with extensions (reach out!).
-* If you need any accommodations, please contact the course staff (team@cubstart.com).
+* If you need any accommodations, please contact the course staff via a private Ed post.
 * **This Decal is a space for everyone.** Cal Hacks is dedicated to providing a harassment-free experience for everyone and we do not tolerate harassment of participants in any form.
 
 ## Grading
@@ -68,7 +72,7 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 
 To pass the class, you will need to earn a grade of 70% or more. This course is fast-paced and highly cumulative. Your success will depend on your active and consistent participation. However, we understand that emergencies and personal matters do come up.
 
-If you have an extenuating circumstances and have used up your drops, please reach out to team@cubstart.com.
+If you have an extenuating circumstances and have used up your drops, please reach out via a private Ed post.
 
 ## Closing message
 
