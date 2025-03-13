@@ -45,7 +45,6 @@ Your scores are saved on the server, so you can compete with other players!
 
 ## Tips for High Scores
 
-- Use multiple fingers or alternate between fingers
 - Find a comfortable position for your hand
 - Try to maintain a steady rhythm
 - Practice makes perfect!
