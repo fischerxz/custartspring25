@@ -1,0 +1,73 @@
+{
+  "leaderboard": [
+    {
+      "name": "sanjana",
+      "score": 1071,
+      "speed": "107.14"
+    },
+    {
+      "name": "malika",
+      "score": 968,
+      "speed": "96.77"
+    },
+    {
+      "name": "Adela",
+      "score": 882,
+      "speed": "88.24"
+    },
+    {
+      "name": "fisher",
+      "score": 811,
+      "speed": "81.08"
+    },
+    {
+      "name": "yash",
+      "score": 769,
+      "speed": "76.92"
+    }
+  ],
+  "players": {
+    "bu": {
+      "highScore": 75,
+      "maxSpeed": "7.56",
+      "lastPlayed": "2025-03-13T02:39:28.268Z",
+      "name": "bu"
+    },
+    "yash": {
+      "highScore": 769,
+      "maxSpeed": "76.92",
+      "lastPlayed": "2025-03-13T02:45:37.575Z",
+      "name": "yash"
+    },
+    "sanjana": {
+      "highScore": 1071,
+      "maxSpeed": "107.14",
+      "lastPlayed": "2025-03-13T02:44:19.689Z",
+      "name": "sanjana"
+    },
+    "malika": {
+      "highScore": 968,
+      "maxSpeed": "96.77",
+      "lastPlayed": "2025-03-13T02:46:08.457Z",
+      "name": "malika"
+    },
+    "amber": {
+      "highScore": 86,
+      "maxSpeed": "8.60",
+      "lastPlayed": "2025-03-13T02:46:52.841Z",
+      "name": "amber"
+    },
+    "Adela": {
+      "highScore": 882,
+      "maxSpeed": "88.24",
+      "lastPlayed": "2025-03-13T03:00:02.480Z",
+      "name": "Adela"
+    },
+    "fisher": {
+      "highScore": 811,
+      "maxSpeed": "81.08",
+      "lastPlayed": "2025-03-13T03:13:48.343Z",
+      "name": "fisher"
+    }
+  }
+}
